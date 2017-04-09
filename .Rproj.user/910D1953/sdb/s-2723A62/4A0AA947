@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "name,age,phone\nram,10,007\nsham,11,009\n",
+    "created" : 1491752151375.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "222178283",
+    "id" : "4A0AA947",
+    "lastKnownWriteTime" : 1491752481,
+    "last_content_update" : 1491752481820,
+    "path" : "E:/Workspace/RStudioWS/data.csv",
+    "project_path" : "data.csv",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

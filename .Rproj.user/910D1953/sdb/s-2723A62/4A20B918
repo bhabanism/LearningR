@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# Style guide : https://google.github.io/styleguide/Rguide.xml\n# p <- \"Hello World1\"\n# print(p)\nx <- 1:5\ny <- c(6,7,8,9,10)\nx + y\nx * 2\nls()\nsn.csv <- read.csv(\"data.csv\")\nsn.csv\n",
+    "created" : 1491751297578.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1186327010",
+    "id" : "4A20B918",
+    "lastKnownWriteTime" : 1491752489,
+    "last_content_update" : 1491752489125,
+    "path" : "E:/Workspace/RStudioWS/R1.R",
+    "project_path" : "R1.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
